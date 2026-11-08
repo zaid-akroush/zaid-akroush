@@ -15,9 +15,11 @@
 
 ---
 
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff" alt="GitHub streak" />
-
 ### Who I Am
+
+<table>
+<tr>
+<td width="60%" valign="middle">
 
 ```python
 zaid = {
@@ -35,7 +37,14 @@ zaid = {
 }
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" align="center" valign="middle">
+<img width="260" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_current_streak=true&amp;hide_longest_streak=true" alt="Total contributions" /><br/>
+<img width="260" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_total_contributions=true&amp;hide_longest_streak=true" alt="Current streak" /><br/>
+<img width="260" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_total_contributions=true&amp;hide_current_streak=true" alt="Longest streak" />
+</td>
+</tr>
+</table>
 
 ---
 
