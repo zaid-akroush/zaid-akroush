@@ -1,4 +1,4 @@
-"""Build a compact vertical streak card (dist/streak.svg) from GitHub's contribution calendar."""
+"""Build a compact vertical streak card (dist/streak-card.svg) from GitHub's contribution calendar."""
 import datetime as dt, json, os, sys, urllib.request
 
 USER = sys.argv[1]
@@ -80,5 +80,5 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 </svg>
 '''
 os.makedirs("dist", exist_ok=True)
-open("dist/streak.svg", "w").write(svg)
+open("dist/streak-card.svg", "w").write(svg)
 print(total, cur, cur_range, best, best_range)

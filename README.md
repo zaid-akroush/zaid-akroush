@@ -15,7 +15,7 @@
 
 ### Who I Am
 
-<img align="right" width="240" src="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/streak.svg?v=2" alt="Contribution streak" />
+<img align="right" width="240" src="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/streak-card.svg" alt="Contribution streak" />
 
 ```python
 zaid = {
