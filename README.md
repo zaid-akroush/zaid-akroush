@@ -4,8 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=CS+student+at+the+University+of+Debrecen;Interested+in+AI+and+building+useful+tools;Allocators+%7C+Interpreters+%7C+RL+%7C+Browser+extensions;Currently+building+agentwatch" alt="Typing SVG" /></a>
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-akroush/)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:akroushzaid@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaid-akroush)
@@ -19,7 +17,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="middle">
+<td valign="middle">
 
 ```python
 zaid = {
@@ -38,10 +36,10 @@ zaid = {
 ```
 
 </td>
-<td width="40%" align="center" valign="middle">
-<img width="260" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_current_streak=true&amp;hide_longest_streak=true" alt="Total contributions" /><br/>
-<img width="260" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_total_contributions=true&amp;hide_longest_streak=true" alt="Current streak" /><br/>
-<img width="260" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_total_contributions=true&amp;hide_current_streak=true" alt="Longest streak" />
+<td align="center" valign="middle">
+<img width="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_current_streak=true&amp;hide_longest_streak=true" alt="Total contributions" /><br/>
+<img width="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_total_contributions=true&amp;hide_longest_streak=true" alt="Current streak" /><br/>
+<img width="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_total_contributions=true&amp;hide_current_streak=true" alt="Longest streak" />
 </td>
 </tr>
 </table>
