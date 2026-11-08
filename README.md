@@ -187,21 +187,16 @@ Price trackers, browser extensions, and multiplayer browser games.
 
 | Layer | Technologies |
 |-------|-------------|
-| **Languages** | Python · C · Java · JavaScript · TypeScript · C# |
-| **AI / ML** | scikit-learn · Unity ML-Agents (PPO) · Jupyter |
-| **Web** | Node.js · Phaser · Vite · Chrome Extensions |
-| **Tools** | Git · Linux · GitHub Actions |
-
-</div>
-
----
-
-### 📊 Stats
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=zaid-akroush&theme=aurora" width="100%" alt="GitHub stats" />
-<img src="https://www.gitskins.com/api/section/stack?username=zaid-akroush&theme=aurora" width="100%" alt="Language stack" />
+| **Languages** | Python · C · Java · JavaScript · TypeScript · C# · SQL · HTML/CSS |
+| **AI / ML** | scikit-learn · NumPy · Isolation Forest · Unity ML-Agents (PPO) · Anthropic API · Jupyter |
+| **Frontend** | React · Next.js · Vite · Tailwind CSS · Framer Motion · React Router |
+| **Backend** | Node.js · Express · JWT · Helmet · node-cron · Web Push · Resend |
+| **Databases** | Prisma · PostgreSQL · SQLite |
+| **Games & Realtime** | Phaser 3 · Colyseus · WebSockets · Unity |
+| **Systems** | Memory allocators · Interpreters · `LD_PRELOAD` · Make · Maven |
+| **Desktop & Extensions** | Chrome Extensions (Manifest V3) · Tkinter / ttkbootstrap · Pillow |
+| **Testing** | pytest · Jest · Supertest |
+| **DevOps & Tools** | Git · GitHub Actions · Docker · Render · Linux · Claude Code |
 
 </div>
 
