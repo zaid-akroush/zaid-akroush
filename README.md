@@ -147,6 +147,29 @@ Price trackers, browser extensions, and multiplayer browser games.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🕹️ Sabotage](https://github.com/zaid-akroush/sabotage)**
+
+> 2D co-op multiplayer puzzle game in the browser. Authoritative Colyseus server with a Phaser 3 client and shared typed message contracts.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Phaser](https://img.shields.io/badge/Phaser_3-8A2BE2?style=flat-square)
+![Colyseus](https://img.shields.io/badge/Colyseus-111111?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**[⏳ Time Loop Escape](https://github.com/zaid-akroush/timeloop-escape)**
+
+> Two-player online escape race. You have 60 seconds before the room resets and your items vanish, but every clue you found carries over to the next loop.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ---
