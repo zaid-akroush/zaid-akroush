@@ -70,6 +70,19 @@ Price trackers, browser extensions, and multiplayer browser games.
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+**[👁️ AgentWatch](https://github.com/LoomLabs-Venture-Studio/agentwatch)** · [agentwatch.info](https://agentwatch.info)
+
+> Watches Claude Code, Cursor, Codex and other AI coding assistants while they work. Flags when one is going in circles, keeps failing, burns money, or does something risky with your keys or data. Runs locally on the logs your assistant already writes. `pipx install agentwatch-monitor`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Textual](https://img.shields.io/badge/Textual-TUI-5A4FCF?style=flat-square)
+![PyPI](https://img.shields.io/pypi/v/agentwatch-monitor?style=flat-square&logo=pypi&logoColor=white&label=PyPI)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[🧱 Miniheap](https://github.com/zaid-akroush/miniheap)**
