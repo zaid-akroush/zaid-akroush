@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake & Streak
 
 on:
   schedule:
@@ -16,6 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak card
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/streak.py ${{ github.repository_owner }}
+
       - name: Generate snake (light & dark)
         uses: Platane/snk/svg-only@v3
         with:

@@ -15,9 +15,7 @@
 
 ### Who I Am
 
-<table>
-<tr>
-<td valign="middle">
+<img align="right" width="240" src="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/streak.svg" alt="Contribution streak" />
 
 ```python
 zaid = {
@@ -35,14 +33,7 @@ zaid = {
 }
 ```
 
-</td>
-<td align="center" valign="middle">
-<img width="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_current_streak=true&amp;hide_longest_streak=true" alt="Total contributions" /><br/>
-<img width="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_total_contributions=true&amp;hide_longest_streak=true" alt="Current streak" /><br/>
-<img width="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-akroush&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff7b54&amp;currStreakLabel=58a6ff&amp;card_width=280&amp;card_height=150&amp;hide_total_contributions=true&amp;hide_current_streak=true" alt="Longest streak" />
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -70,6 +61,18 @@ Price trackers, browser extensions, and multiplayer browser games.
 </td>
 </tr>
 </table>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/github-snake.svg"/>
+</picture>
+</div>
 
 ---
 
@@ -198,18 +201,6 @@ Price trackers, browser extensions, and multiplayer browser games.
 | **Testing** | pytest · Jest · Supertest |
 | **DevOps & Tools** | Git · GitHub Actions · Docker · Render · Linux · Claude Code |
 
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/github-snake.svg"/>
-</picture>
 </div>
 
 ---
