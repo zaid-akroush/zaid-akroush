@@ -1,28 +1,46 @@
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=zaid-akroush&theme=aurora&label=Zaid%20Akroush" width="100%" alt="Zaid Akroush" />
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20Zaid&fontSize=60&animation=fadeIn)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=zaid-akroush&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=zaid-akroush&theme=aurora&mode=dark" width="100%" alt="Profile hero for Zaid" />
+  </picture>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Student+at+the+University+of+Debrecen;Interested+in+AI+and+building+useful+tools;Always+learning)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Student+at+the+University+of+Debrecen;Interested+in+AI+and+building+useful+tools;Always+learning" alt="Typing intro" />
+</p>
 
-</div>
+## About me
 
-### About me
-- 🎓 Studying at the University of Debrecen
-- 🔭 Working on: agentwatch, a tool for working with coding agents
-- 🌱 Learning: AI, machine learning and software engineering
-- 🌍 From Jordan, currently based in Hungary
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=zaid-akroush&theme=aurora&items=Studying::University%20of%20Debrecen|Building::agentwatch%2C%20tooling%20for%20coding%20agents|Learning::AI%2C%20ML%20and%20software%20engineering|Based%20in::Hungary%20%C2%B7%20from%20Jordan" width="100%" alt="Highlights" />
+</p>
 
-### Tech stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+## Stack & stats
 
-### GitHub stats
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=zaid-akroush&theme=aurora" width="100%" alt="Language stack" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=zaid-akroush&theme=aurora" width="100%" alt="GitHub stats" />
+</p>
 
-</div>
+## Projects
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=zaid-akroush&theme=aurora" width="100%" alt="Projects" />
+</p>
+
+## Contributions
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=zaid-akroush&theme=aurora&style=snake" width="100%" alt="Contribution snake" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=zaid-akroush&theme=aurora" width="100%" alt="Profile scan" />
+</p>
