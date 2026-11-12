@@ -1,39 +1,11 @@
 <div align="center">
 
-<img src="https://ascii.rest/banner/ZAID%20AKROUSH.svg?color=58A6FF&effect=glint&font=block&shadow=rounded" width="100%" alt="Zaid Akroush" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=CS+student+at+the+University+of+Debrecen;Interested+in+AI+and+building+useful+tools;Allocators+%7C+Interpreters+%7C+RL+%7C+Browser+extensions;Currently+building+agentwatch" alt="Typing SVG" /></a>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-akroush/)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:akroushzaid@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaid-akroush)
 [![Profile Views](https://komarev.com/ghpvc/?username=zaid-akroush&label=Profile+Views&color=58a6ff&style=for-the-badge)](https://github.com/zaid-akroush)
 
 </div>
-
----
-
-### Who I Am
-
-<img align="right" width="240" src="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/streak-card.svg" alt="Contribution streak" />
-
-```python
-zaid = {
-    "role"     : "CS Student",
-    "location" : "Debrecen, Hungary 🇭🇺  (from Jordan 🇯🇴)",
-    "degree"   : "BSc CS, University of Debrecen",
-    "building" : "agentwatch",
-
-    "focus"    : [
-        "AI & Machine Learning",
-        "Systems Programming",
-        "Developer Tools",
-        "Security",
-    ],
-}
-```
-
-<br clear="right"/>
 
 ---
 
@@ -61,18 +33,6 @@ Price trackers, browser extensions, and multiplayer browser games.
 </td>
 </tr>
 </table>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zaid-akroush/zaid-akroush/output/github-snake.svg"/>
-</picture>
-</div>
 
 ---
 
@@ -139,8 +99,3 @@ Price trackers, browser extensions, and multiplayer browser games.
 
 ---
 
-<div align="center">
-
-*Debrecen, Hungary · UTC+1*
-
-</div>
