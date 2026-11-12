@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/wordmark?username=zaid-akroush&theme=aurora&label=Zaid%20Akroush" width="100%" alt="Zaid Akroush" />
+<img src="https://ascii.rest/banner/ZAID%20AKROUSH.svg?color=58A6FF&effect=glint&font=block&shadow=rounded" width="100%" alt="Zaid Akroush" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=CS+student+at+the+University+of+Debrecen;Interested+in+AI+and+building+useful+tools;Allocators+%7C+Interpreters+%7C+RL+%7C+Browser+extensions;Currently+building+agentwatch" alt="Typing SVG" /></a>
 
