@@ -95,16 +95,6 @@ Price trackers, browser extensions, and multiplayer browser games.
 <tr>
 <td width="50%" valign="top">
 
-**[🧱 Miniheap](https://github.com/zaid-akroush/miniheap)**
-
-> `malloc`/`free`/`realloc` replacement written from scratch in C. Explicit free-list allocator with splitting and boundary-tag coalescing, plus an `LD_PRELOAD` shim that runs it inside real binaries.
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
 **[🪶 Quill](https://github.com/zaid-akroush/quill-lang)**
 
 > Tree-walking interpreter for a dynamically typed scripting language with closures and first-class functions. Hand-written lexer, parser and interpreter, no dependencies.
@@ -112,71 +102,15 @@ Price trackers, browser extensions, and multiplayer browser games.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-**[🛡️ Sentinel](https://github.com/zaid-akroush/sentinel-log-analyzer)**
+**[📖 Kilmeh](https://github.com/zaid-akroush/kilmeh)** · *(private)*
 
-> Analyzes SSH and firewall logs for suspicious activity using rule-based detectors (brute force, port scans, off-hours access) and unsupervised anomaly detection.
+> An open benchmark for coding agents on Arabic — Arabic prompts, Arabic text inside code, and right-to-left (RTL) user interfaces. Deterministic graders, native-reviewed tasks, hermetic containers.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**[🚗 RL Self-Driving Car](https://github.com/zaid-akroush/rl-self-driving-car)**
-
-> A 3D car learns to drive race tracks with PPO, avoiding walls, barrels and pedestrians using ray sensors. Reinforcement Learning course project.
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🧹 Unslop IG](https://github.com/zaid-akroush/unslop-ig)**
-
-> Chrome extension that strips AI slop, spam, reposts and ads out of Instagram. Runs entirely in the browser.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chrome](https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**[📉 PricePulse](https://github.com/zaid-akroush/pricepulse)**
-
-> Electronics price tracker. Search Google Shopping in your country, set a target price, and get an email when it drops.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🕹️ Sabotage](https://github.com/zaid-akroush/sabotage)**
-
-> 2D co-op multiplayer puzzle game in the browser. Authoritative Colyseus server with a Phaser 3 client and shared typed message contracts.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser_3-8A2BE2?style=flat-square)
-![Colyseus](https://img.shields.io/badge/Colyseus-111111?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**[⏳ Time Loop Escape](https://github.com/zaid-akroush/timeloop-escape)**
-
-> Two-player online escape race. You have 60 seconds before the room resets and your items vanish, but every clue you found carries over to the next loop.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
