@@ -26,7 +26,7 @@
 </td>
 <td width="50%" valign="top">
 
-**[📖 Kilmeh](https://github.com/zaid-akroush/kilmeh)** · *(private)*
+**[📖 Kilmeh](https://github.com/zaid-akroush/kilmeh)** 
 
 > An open benchmark for coding agents on Arabic — Arabic prompts, Arabic text inside code, and right-to-left (RTL) user interfaces. Deterministic graders, native-reviewed tasks, hermetic containers.
 
